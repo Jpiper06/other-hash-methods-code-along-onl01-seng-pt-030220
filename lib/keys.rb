@@ -9,5 +9,8 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  groceries = {dairy: ["milk", "yogurt", "cheese", "carrots", "broccoli", "cucumbers", "chicken", "steak", "salmon", "rice", "pasta"]
+  groceries = {dairy: ["milk", "yogurt", "cheese",]
+      Vegetable: ["carrots", "broccoli", "cucumbers"], 
+      meat: ["chicken", "steak", "salmon"],
+      grains: ["rice", "pasta"]
 end
