@@ -19,8 +19,6 @@ def get_the_keys(groceries)
     #=> [:dairy, :vegetable, :meat, :grains]
 end 
 
-def get_the_values(groceries)
-  #=> [["milk", "yogurt", "cheese"], ["carrots", "broccoli", "cucumbers"], ["chicken", "steak", "salmon"], ["rice", "pasta"]]
-end 
+
 
 
