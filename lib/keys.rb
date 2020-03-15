@@ -8,10 +8,6 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
-def get_the_keys(groceries)
-  groceries = {dairy: ["milk", "yogurt", "cheese",]
-     Vegetable: ["carrots", "broccoli", "cucumbers"], 
-      meat: ["chicken", "steak", "salmon"],
-      grains: ["rice", "pasta"]}
-end
 
+
+def get_the_keys(groceries)
